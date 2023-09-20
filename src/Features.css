@@ -1,0 +1,24 @@
+.featBody .featBody2
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.featBody
+{
+    /* background: linear-gradient(132deg, #4b0940, #094b14, black);
+    background-size: 500% 500%;            
+    height: 80vh; */
+    color: rgb(250, 247, 248);
+    font-size: 20px;
+    word-spacing: 5px;
+}
+strong
+{
+    font-size: 30px;
+}
+
+.featBody2
+{
+    padding-top: 100px;
+}

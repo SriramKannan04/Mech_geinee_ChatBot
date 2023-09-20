@@ -1,0 +1,77 @@
+.Logo
+{
+   width: 300px;
+   transition: transform 1.1s ease-in-out
+}
+.Logo:hover
+{
+  transform: rotate(359deg);
+}
+
+table
+{
+  border-collapse: collapse;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.content      /* databook */
+{
+  color: whitesmoke;
+  text-shadow: 2px 1px black;
+  /* font-family: 'Acme', sans-serif; */
+  font-family: 'Carter One', cursive;
+}
+
+h1 
+{
+  transition: transform 0.5s ease-in-out;
+}
+#two{
+  transition: transform 0.5s ease-in-out;
+} 
+#three{
+  transition: transform 0.5s ease-in-out;
+}
+h1:hover
+{
+  color: coral;
+  /* padding-left: 10px; */
+  transform: translateY(-20px); 
+}
+#two:hover
+{
+  color: gold;
+  transform: translateX(10px); 
+  /* padding-left: 10px; */
+}
+#three:hover
+{
+  color: #98FB98;
+  transform: translateY(20px); 
+ /*  padding-left: 10px; */
+}
+
+.trail
+{
+  font-size: 20px;
+  width: 100px;
+  color: rgb(7, 7, 7);
+  font-family: 'Aladin', cursive;
+  background-color: orange;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 1.0);
+  
+}
+.trail:hover
+{
+  color: gold;
+  background-color: black;
+  transition: 0.7s ease;
+}
+
+.big
+{
+  height: 60vh;
+}
+

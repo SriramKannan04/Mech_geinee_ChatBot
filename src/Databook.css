@@ -1,0 +1,43 @@
+.dbBody 
+{
+    background: linear-gradient(132deg, #0326ea, #9925be, #be4d25, #49be25);
+    background-size: 400% 400%;
+    height: 525vh;
+} 
+
+.odd
+{
+    padding-left: 100px;
+}
+
+.dbcontent
+{
+    color: rgb(10, 10, 10);
+    border-radius: 20px;
+    background-color: #f03901;
+    padding: 10px;
+}
+.dbcontent:hover
+{
+    /* border: 6px solid rgb(251, 250, 255); */
+    box-shadow: -10px -10px 2px rgb(251, 250, 255);
+}
+.nonetd
+{
+    padding-left: 150px;
+}
+
+
+.dbdoc
+{
+    background-color: whitesmoke;
+    color: rgb(9, 9, 9);
+    font-size: 20px;
+    border-radius: 30px;
+    width: 150px;
+}
+.dbdoc:hover
+{
+    background-color: #ffd700;
+    border-color:black;
+}
